@@ -30,10 +30,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 > Vue, Vue Router, vue/cli
 
 ## Functions
-Post Blogs
+>Post Blogs
 
-Read Blogs
+>Read Blogs
 
-Searching Blogs
+>Searching Blogs
 
 
