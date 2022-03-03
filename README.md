@@ -23,15 +23,17 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## Description
 
-This is the web page which implements the function of writing blogs and reading the blogs you have written. It also has a search function that allows user to search for Blogs by title.
+> This is the web page which implements the function of writing blogs and reading the blogs you have written. It also has a search function that allows user to search for Blogs by title.
 
 ## Tools used
 
-Vue, Vue Router, vue/cli
+> Vue, Vue Router, vue/cli
 
 ## Functions
 Post Blogs
+
 Read Blogs
+
 Searching Blogs
 
 
